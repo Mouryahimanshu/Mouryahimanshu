@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NLP and Computer vision
 - 💞️ I’m looking to collaborate with research in field in NLP and CV
 
-- 📫 How to reach me himanshumourya8057@gmaul.com
+- 📫 How to reach me himanshumourya8057@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Freely Mind not more Pressure take
 
