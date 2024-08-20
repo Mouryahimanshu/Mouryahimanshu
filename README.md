@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mouryahimanshu
 - 👀 I’m interested in Resarch in Transformers , llms and Computer Vision research Paper
 - 🌱 I’m currently learning NLP and Computer vision
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with research in field in NLP and CV
+
 - 📫 How to reach me himanshumourya8057@gmaul.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Freely Mind not more Pressure take
